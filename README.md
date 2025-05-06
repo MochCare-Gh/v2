@@ -1,3 +1,5 @@
+<p align="center"><img src="https://mochcare.com/wp-content/uploads/2024/06/mochcare-logo-removebg-preview-300x83-1.png#283" width="400"></p>
+
 # Welcome to MOCHCare
 
 An intelligent system designed to help midwives, healthcare administrators, and personnel efficiently manage maternal records and healthcare services.
@@ -197,7 +199,7 @@ Ownership by MOCHCARE Limited Company
 
 ## License
 
-The project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The project is an open-sourced software licensed under the [GNU General Public License version 3](https://opensource.org/license/gpl-3-0).
 
 
 
